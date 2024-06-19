@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.12.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.12.3.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.12.3.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-1.32.2.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-1.40.1.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-gson-1.40.1.jar"/>
+	<classpathentry kind="lib" path="lib/google-oauth-client-1.31.5.jar"/>
+	<classpathentry kind="lib" path="lib/google-http-client-jackson2-1.44.2.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-api-0.28.3.jar"/>
+	<classpathentry kind="lib" path="lib/opencensus-contrib-http-util-0.28.3.jar"/>
+	<classpathentry kind="lib" path="lib/firebase-admin-8.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.8.8.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-credentials-0.22.0.jar"/>
+	<classpathentry kind="lib" path="lib/google-auth-library-oauth2-http-0.22.0.jar"/>
+	<classpathentry kind="lib" path="lib/api-common-1.10.3.jar"/>
+	<classpathentry kind="lib" path="lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="lib/google-api-client-jackson2-1.32.2.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-api-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-context-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-core-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-netty-shaded-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-protobuf-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/grpc-stub-1.34.1.jar"/>
+	<classpathentry kind="lib" path="lib/netty-buffer-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-common-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-handler-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-resolver-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-3.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/protobuf-java-util-3.12.0.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http2-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-socks-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-resolver-dns-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-native-epoll-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-transport-native-unix-common-4.1.48.Final.jar"/>
+	<classpathentry kind="lib" path="lib/netty-codec-http-4.1.48.Final.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
